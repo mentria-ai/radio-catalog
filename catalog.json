@@ -218,7 +218,8 @@
       "bowed vibraphone"
     ],
     "type": "short_interlude",
-    "generated_at": "2026-04-11T04:47:36Z"
+    "generated_at": "2026-04-11T04:47:36Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/b55d6e_ethereal_ambient_56bpm.opus"
   },
   {
     "id": "80fb03",
@@ -237,7 +238,8 @@
       "heavy strings"
     ],
     "type": "long_epic",
-    "generated_at": "2026-04-11T04:49:06Z"
+    "generated_at": "2026-04-11T04:49:06Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/80fb03_dark_intense_91bpm.opus"
   },
   {
     "id": "be590f",
@@ -257,7 +259,8 @@
       "heavy strings"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T04:50:26Z"
+    "generated_at": "2026-04-11T04:50:26Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/be590f_dark_intense_125bpm.opus"
   },
   {
     "id": "5ef7c8",
@@ -278,6 +281,204 @@
       "french horns"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T04:51:32Z"
+    "generated_at": "2026-04-11T04:51:32Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/5ef7c8_adventure_120bpm.opus"
+  },
+  {
+    "id": "9029d3",
+    "file": "9029d3_emotional_sweeping_134bpm.opus",
+    "title": "Fading Solace",
+    "mood": "emotional_sweeping",
+    "energy": 0.66,
+    "bpm": 134,
+    "key": "D major",
+    "duration_sec": 194,
+    "instruments": [
+      "solo piano",
+      "violin solo",
+      "english horn",
+      "harp",
+      "string quartet"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T04:52:44Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/9029d3_emotional_sweeping_134bpm.opus"
+  },
+  {
+    "id": "89cb66",
+    "file": "89cb66_emotional_sweeping_94bpm.opus",
+    "title": "Fleeting Reverie",
+    "mood": "emotional_sweeping",
+    "energy": 0.73,
+    "bpm": 94,
+    "key": "E flat major",
+    "duration_sec": 207,
+    "instruments": [
+      "gentle choir",
+      "violin solo",
+      "harp",
+      "solo piano",
+      "oboe"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T04:53:51Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/89cb66_emotional_sweeping_94bpm.opus"
+  },
+  {
+    "id": "0f3e13",
+    "file": "0f3e13_heroic_68bpm.opus",
+    "title": "Rising Fortress",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 68,
+    "key": "D major",
+    "duration_sec": 129,
+    "instruments": [
+      "epic choir",
+      "trumpets",
+      "war drums",
+      "brass ensemble",
+      "cymbals",
+      "french horns",
+      "timpani"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T04:55:10Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/0f3e13_heroic_68bpm.opus"
+  },
+  {
+    "id": "eb8d93",
+    "file": "eb8d93_ethereal_ambient_152bpm.opus",
+    "title": "Twilight Nebula",
+    "mood": "ethereal_ambient",
+    "energy": 0.69,
+    "bpm": 152,
+    "key": "E minor",
+    "duration_sec": 169,
+    "instruments": [
+      "soft strings",
+      "wind chimes",
+      "synthesizer pads",
+      "bowed vibraphone",
+      "reverb piano"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T04:56:36Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/eb8d93_ethereal_ambient_152bpm.opus"
+  },
+  {
+    "id": "2ba047",
+    "file": "2ba047_dark_intense_188bpm.opus",
+    "title": "Ashen Wrath",
+    "mood": "dark_intense",
+    "energy": 0.73,
+    "bpm": 188,
+    "key": "C minor",
+    "duration_sec": 221,
+    "instruments": [
+      "contrabassoon",
+      "distorted cello",
+      "cello ensemble",
+      "anvil strikes"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T04:57:59Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/2ba047_dark_intense_188bpm.opus"
+  },
+  {
+    "id": "34adff",
+    "file": "34adff_ethereal_ambient_60bpm.opus",
+    "title": "Twilight Tide",
+    "mood": "ethereal_ambient",
+    "energy": 0.76,
+    "bpm": 60,
+    "key": "E minor",
+    "duration_sec": 37,
+    "instruments": [
+      "ambient textures",
+      "glass harmonica",
+      "reverb piano"
+    ],
+    "type": "short_interlude",
+    "generated_at": "2026-04-11T04:58:58Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/34adff_ethereal_ambient_60bpm.opus"
+  },
+  {
+    "id": "251715",
+    "file": "251715_emotional_sweeping_181bpm.opus",
+    "title": "Wistful Passage",
+    "mood": "emotional_sweeping",
+    "energy": 0.74,
+    "bpm": 181,
+    "key": "E flat major",
+    "duration_sec": 33,
+    "instruments": [
+      "english horn",
+      "oboe",
+      "harp",
+      "full orchestra strings",
+      "solo piano",
+      "flute"
+    ],
+    "type": "short_interlude",
+    "generated_at": "2026-04-11T04:59:31Z"
+  },
+  {
+    "id": "874ce8",
+    "file": "874ce8_ethereal_ambient_245bpm.opus",
+    "title": "Crystal Cosmos",
+    "mood": "ethereal_ambient",
+    "energy": 0.56,
+    "bpm": 245,
+    "key": "A minor",
+    "duration_sec": 440,
+    "instruments": [
+      "synthesizer pads",
+      "cello harmonics",
+      "ambient textures",
+      "ethereal vocals",
+      "soft strings"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:01:35Z"
+  },
+  {
+    "id": "d774a9",
+    "file": "d774a9_heroic_152bpm.opus",
+    "title": "Burning Charge",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 152,
+    "key": "E minor",
+    "duration_sec": 229,
+    "instruments": [
+      "epic choir",
+      "trombones",
+      "brass ensemble",
+      "pipe organ"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:03:12Z"
+  },
+  {
+    "id": "c2bfc5",
+    "file": "c2bfc5_adventure_112bpm.opus",
+    "title": "Swift Passage",
+    "mood": "adventure",
+    "energy": 0.87,
+    "bpm": 112,
+    "key": "B flat major",
+    "duration_sec": 185,
+    "instruments": [
+      "flute",
+      "fiddle",
+      "snare drum",
+      "strings",
+      "brass fanfare",
+      "trumpets",
+      "triangle"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:04:38Z"
   }
 ]
