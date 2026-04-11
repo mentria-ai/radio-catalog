@@ -428,5 +428,222 @@
     "art": "adventure.jpg",
     "generated_at": "2026-04-11T09:39:46Z",
     "url": "https://mentria-ai.github.io/radio-catalog/tracks/9b59c7_adventure_134bpm.opus"
+  },
+  {
+    "id": "6db0a6",
+    "file": "6db0a6_ethereal_ambient_97bpm.opus",
+    "title": "Spectral Whisper",
+    "mood": "ethereal_ambient",
+    "energy": 0.65,
+    "bpm": 97,
+    "key": "E minor",
+    "duration_sec": 36,
+    "instruments": [
+      "cello harmonics",
+      "glass harmonica",
+      "wind chimes"
+    ],
+    "type": "short_interlude",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T09:41:11Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/6db0a6_ethereal_ambient_97bpm.opus"
+  },
+  {
+    "id": "05102a",
+    "file": "05102a_ethereal_ambient_100bpm.opus",
+    "title": "Luminous Aurora",
+    "mood": "ethereal_ambient",
+    "energy": 0.79,
+    "bpm": 100,
+    "key": "D minor",
+    "duration_sec": 200,
+    "instruments": [
+      "shimmer delay guitar",
+      "atmospheric drones",
+      "soft strings",
+      "ambient textures",
+      "synthesizer pads"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T09:43:24Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/05102a_ethereal_ambient_100bpm.opus"
+  },
+  {
+    "id": "355606",
+    "file": "355606_adventure_70bpm.opus",
+    "title": "Wild Odyssey",
+    "mood": "adventure",
+    "energy": 1.0,
+    "bpm": 70,
+    "key": "C major",
+    "duration_sec": 189,
+    "instruments": [
+      "brass fanfare",
+      "tambourine",
+      "lively strings",
+      "fiddle",
+      "snare drum",
+      "piccolo",
+      "orchestral strings",
+      "xylophone"
+    ],
+    "type": "medium_track",
+    "art": "adventure.jpg",
+    "generated_at": "2026-04-11T09:45:45Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/355606_adventure_70bpm.opus"
+  },
+  {
+    "id": "fc5201",
+    "file": "fc5201_emotional_sweeping_161bpm.opus",
+    "title": "Radiant Passage",
+    "mood": "emotional_sweeping",
+    "energy": 1.0,
+    "bpm": 161,
+    "key": "E flat major",
+    "duration_sec": 238,
+    "instruments": [
+      "flute",
+      "oboe",
+      "clarinet",
+      "violin solo",
+      "english horn"
+    ],
+    "type": "medium_track",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T09:48:14Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/fc5201_emotional_sweeping_161bpm.opus"
+  },
+  {
+    "id": "6a0a18",
+    "file": "6a0a18_emotional_sweeping_94bpm.opus",
+    "title": "Gentle Journey",
+    "mood": "emotional_sweeping",
+    "energy": 0.62,
+    "bpm": 94,
+    "key": "A minor",
+    "duration_sec": 59,
+    "instruments": [
+      "english horn",
+      "violin solo",
+      "french horn",
+      "string quartet",
+      "harp"
+    ],
+    "type": "short_interlude",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T09:49:43Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/6a0a18_emotional_sweeping_94bpm.opus"
+  },
+  {
+    "id": "098a9f",
+    "file": "098a9f_heroic_141bpm.opus",
+    "title": "Thunder Conquest",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 141,
+    "key": "D major",
+    "duration_sec": 230,
+    "instruments": [
+      "brass ensemble",
+      "orchestral percussion",
+      "taiko drums",
+      "french horns",
+      "cellos",
+      "snare drum",
+      "soaring strings"
+    ],
+    "type": "medium_track",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T09:52:04Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/098a9f_heroic_141bpm.opus"
+  },
+  {
+    "id": "d82243",
+    "file": "d82243_adventure_115bpm.opus",
+    "title": "Boundless Odyssey",
+    "mood": "adventure",
+    "energy": 1.0,
+    "bpm": 115,
+    "key": "G major",
+    "duration_sec": 156,
+    "instruments": [
+      "flute",
+      "french horns",
+      "snare drum",
+      "xylophone",
+      "bodhran drum",
+      "trumpets"
+    ],
+    "type": "medium_track",
+    "art": "adventure.jpg",
+    "generated_at": "2026-04-11T09:54:09Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/d82243_adventure_115bpm.opus"
+  },
+  {
+    "id": "597f28",
+    "file": "597f28_dark_intense_128bpm.opus",
+    "title": "Twisted Siege",
+    "mood": "dark_intense",
+    "energy": 0.95,
+    "bpm": 128,
+    "key": "B minor",
+    "duration_sec": 223,
+    "instruments": [
+      "low piano clusters",
+      "contrabassoon",
+      "string tremolo",
+      "heavy cello ensemble",
+      "dark choir"
+    ],
+    "type": "medium_track",
+    "art": "dark_intense.jpg",
+    "generated_at": "2026-04-11T09:56:35Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/597f28_dark_intense_128bpm.opus"
+  },
+  {
+    "id": "a576f4",
+    "file": "a576f4_ethereal_ambient_137bpm.opus",
+    "title": "Glacial Tide",
+    "mood": "ethereal_ambient",
+    "energy": 0.59,
+    "bpm": 137,
+    "key": "G major",
+    "duration_sec": 222,
+    "instruments": [
+      "bowed vibraphone",
+      "soft strings",
+      "wind chimes",
+      "cello harmonics",
+      "atmospheric drones",
+      "glass harmonica"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T09:58:54Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/a576f4_ethereal_ambient_137bpm.opus"
+  },
+  {
+    "id": "6564ab",
+    "file": "6564ab_dark_intense_120bpm.opus",
+    "title": "Shattered Tempest",
+    "mood": "dark_intense",
+    "energy": 1.0,
+    "bpm": 120,
+    "key": "B minor",
+    "duration_sec": 127,
+    "instruments": [
+      "taiko drums",
+      "tubular bells",
+      "string tremolo",
+      "bass trombone",
+      "heavy cello ensemble",
+      "timpani rolls",
+      "anvil strikes"
+    ],
+    "type": "medium_track",
+    "art": "dark_intense.jpg",
+    "generated_at": "2026-04-11T10:00:48Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/6564ab_dark_intense_120bpm.opus"
   }
 ]
