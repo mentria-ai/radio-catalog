@@ -618,7 +618,8 @@
       "ethereal vocals"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T05:18:29Z"
+    "generated_at": "2026-04-11T05:18:29Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/b2b157_ethereal_ambient_58bpm.opus"
   },
   {
     "id": "796d23",
@@ -637,7 +638,8 @@
       "tubular bells"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T05:19:23Z"
+    "generated_at": "2026-04-11T05:19:23Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/796d23_dark_intense_125bpm.opus"
   },
   {
     "id": "311f86",
@@ -657,7 +659,8 @@
       "trombones"
     ],
     "type": "long_epic",
-    "generated_at": "2026-04-11T05:21:22Z"
+    "generated_at": "2026-04-11T05:21:22Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/311f86_heroic_128bpm.opus"
   },
   {
     "id": "723f5a",
@@ -678,6 +681,206 @@
       "trombones"
     ],
     "type": "short_interlude",
-    "generated_at": "2026-04-11T05:22:11Z"
+    "generated_at": "2026-04-11T05:22:11Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/723f5a_heroic_125bpm.opus"
+  },
+  {
+    "id": "75c3b5",
+    "file": "75c3b5_adventure_108bpm.opus",
+    "title": "Swift Passage",
+    "mood": "adventure",
+    "energy": 1.0,
+    "bpm": 108,
+    "key": "D major",
+    "duration_sec": 163,
+    "instruments": [
+      "piccolo",
+      "fiddle",
+      "brass fanfare",
+      "triangle",
+      "strings"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:23:30Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/75c3b5_adventure_108bpm.opus"
+  },
+  {
+    "id": "a12100",
+    "file": "a12100_heroic_78bpm.opus",
+    "title": "Mighty Valor",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 78,
+    "key": "D minor",
+    "duration_sec": 191,
+    "instruments": [
+      "timpani",
+      "trumpets",
+      "cymbals",
+      "epic choir",
+      "war drums",
+      "trombones",
+      "french horns"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:24:43Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/a12100_heroic_78bpm.opus"
+  },
+  {
+    "id": "8782c9",
+    "file": "8782c9_heroic_65bpm.opus",
+    "title": "Mighty Conquest",
+    "mood": "heroic",
+    "energy": 0.78,
+    "bpm": 65,
+    "key": "B flat major",
+    "duration_sec": 57,
+    "instruments": [
+      "war drums",
+      "trombones",
+      "snare drum",
+      "cymbals",
+      "epic choir",
+      "orchestral percussion",
+      "trumpets"
+    ],
+    "type": "short_interlude",
+    "generated_at": "2026-04-11T05:25:23Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/8782c9_heroic_65bpm.opus"
+  },
+  {
+    "id": "cd3554",
+    "file": "cd3554_adventure_117bpm.opus",
+    "title": "Reckless Expedition",
+    "mood": "adventure",
+    "energy": 0.85,
+    "bpm": 117,
+    "key": "D major",
+    "duration_sec": 48,
+    "instruments": [
+      "french horns",
+      "xylophone",
+      "flute",
+      "piccolo",
+      "snare drum"
+    ],
+    "type": "short_interlude",
+    "generated_at": "2026-04-11T05:25:58Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/cd3554_adventure_117bpm.opus"
+  },
+  {
+    "id": "b1bcf1",
+    "file": "b1bcf1_heroic_131bpm.opus",
+    "title": "Iron Charge",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 131,
+    "key": "C minor",
+    "duration_sec": 181,
+    "instruments": [
+      "brass ensemble",
+      "snare drum",
+      "trombones",
+      "french horns",
+      "epic choir"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:26:54Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/b1bcf1_heroic_131bpm.opus"
+  },
+  {
+    "id": "3fc54d",
+    "file": "3fc54d_adventure_120bpm.opus",
+    "title": "Spirited Horizon",
+    "mood": "adventure",
+    "energy": 1.0,
+    "bpm": 120,
+    "key": "F major",
+    "duration_sec": 543,
+    "instruments": [
+      "strings",
+      "fiddle",
+      "snare drum",
+      "trumpets",
+      "xylophone"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:29:22Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-004/3fc54d_adventure_120bpm.opus"
+  },
+  {
+    "id": "3b0aa0",
+    "file": "3b0aa0_emotional_sweeping_144bpm.opus",
+    "title": "Radiant Solace",
+    "mood": "emotional_sweeping",
+    "energy": 0.78,
+    "bpm": 144,
+    "key": "C major",
+    "duration_sec": 199,
+    "instruments": [
+      "clarinet",
+      "violin solo",
+      "french horn",
+      "cello solo",
+      "string quartet"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:30:49Z"
+  },
+  {
+    "id": "f6de46",
+    "file": "f6de46_ethereal_ambient_256bpm.opus",
+    "title": "Misty Drift",
+    "mood": "ethereal_ambient",
+    "energy": 0.51,
+    "bpm": 256,
+    "key": "E minor",
+    "duration_sec": 200,
+    "instruments": [
+      "ambient textures",
+      "bowed vibraphone",
+      "soft strings",
+      "synthesizer pads",
+      "singing bowls"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:32:12Z"
+  },
+  {
+    "id": "144950",
+    "file": "144950_heroic_69bpm.opus",
+    "title": "Eternal Fortress",
+    "mood": "heroic",
+    "energy": 0.69,
+    "bpm": 69,
+    "key": "C minor",
+    "duration_sec": 120,
+    "instruments": [
+      "french horns",
+      "cymbals",
+      "orchestral percussion",
+      "timpani"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:33:02Z"
+  },
+  {
+    "id": "49d6ea",
+    "file": "49d6ea_ethereal_ambient_148bpm.opus",
+    "title": "Crystal Aurora",
+    "mood": "ethereal_ambient",
+    "energy": 0.62,
+    "bpm": 148,
+    "key": "D minor",
+    "duration_sec": 174,
+    "instruments": [
+      "ethereal vocals",
+      "glass harmonica",
+      "synthesizer pads",
+      "ambient textures",
+      "soft strings"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:34:43Z"
   }
 ]
