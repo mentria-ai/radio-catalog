@@ -421,7 +421,8 @@
       "flute"
     ],
     "type": "short_interlude",
-    "generated_at": "2026-04-11T04:59:31Z"
+    "generated_at": "2026-04-11T04:59:31Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/251715_emotional_sweeping_181bpm.opus"
   },
   {
     "id": "874ce8",
@@ -440,7 +441,8 @@
       "soft strings"
     ],
     "type": "long_epic",
-    "generated_at": "2026-04-11T05:01:35Z"
+    "generated_at": "2026-04-11T05:01:35Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/874ce8_ethereal_ambient_245bpm.opus"
   },
   {
     "id": "d774a9",
@@ -458,7 +460,8 @@
       "pipe organ"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T05:03:12Z"
+    "generated_at": "2026-04-11T05:03:12Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/d774a9_heroic_152bpm.opus"
   },
   {
     "id": "c2bfc5",
@@ -479,6 +482,202 @@
       "triangle"
     ],
     "type": "medium_track",
-    "generated_at": "2026-04-11T05:04:38Z"
+    "generated_at": "2026-04-11T05:04:38Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/c2bfc5_adventure_112bpm.opus"
+  },
+  {
+    "id": "1bde8c",
+    "file": "1bde8c_ethereal_ambient_256bpm.opus",
+    "title": "Misty Aurora",
+    "mood": "ethereal_ambient",
+    "energy": 0.68,
+    "bpm": 256,
+    "key": "G major",
+    "duration_sec": 493,
+    "instruments": [
+      "reverb piano",
+      "ethereal vocals",
+      "glass harmonica",
+      "bowed vibraphone"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:07:02Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/1bde8c_ethereal_ambient_256bpm.opus"
+  },
+  {
+    "id": "4d5544",
+    "file": "4d5544_heroic_71bpm.opus",
+    "title": "Crimson Anthem",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 71,
+    "key": "D minor",
+    "duration_sec": 399,
+    "instruments": [
+      "orchestral percussion",
+      "epic choir",
+      "cymbals",
+      "trombones",
+      "pipe organ",
+      "trumpets",
+      "french horns"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:09:04Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/4d5544_heroic_71bpm.opus"
+  },
+  {
+    "id": "90d782",
+    "file": "90d782_dark_intense_112bpm.opus",
+    "title": "Frozen Ruin",
+    "mood": "dark_intense",
+    "energy": 1.0,
+    "bpm": 112,
+    "key": "E flat minor",
+    "duration_sec": 470,
+    "instruments": [
+      "bass trombone",
+      "tubular bells",
+      "contrabassoon",
+      "taiko drums",
+      "heavy strings"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:11:24Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/90d782_dark_intense_112bpm.opus"
+  },
+  {
+    "id": "cd324d",
+    "file": "cd324d_ethereal_ambient_100bpm.opus",
+    "title": "Misty Whisper",
+    "mood": "ethereal_ambient",
+    "energy": 0.47,
+    "bpm": 100,
+    "key": "D minor",
+    "duration_sec": 223,
+    "instruments": [
+      "wind chimes",
+      "bowed vibraphone",
+      "glass harmonica",
+      "ambient textures"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:12:55Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/cd324d_ethereal_ambient_100bpm.opus"
+  },
+  {
+    "id": "82d06c",
+    "file": "82d06c_ethereal_ambient_120bpm.opus",
+    "title": "Luminous Cosmos",
+    "mood": "ethereal_ambient",
+    "energy": 0.3,
+    "bpm": 120,
+    "key": "F major",
+    "duration_sec": 191,
+    "instruments": [
+      "singing bowls",
+      "soft strings",
+      "cello harmonics"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:15:22Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/82d06c_ethereal_ambient_120bpm.opus"
+  },
+  {
+    "id": "4ab0bc",
+    "file": "4ab0bc_ethereal_ambient_97bpm.opus",
+    "title": "Floating Silence",
+    "mood": "ethereal_ambient",
+    "energy": 0.51,
+    "bpm": 97,
+    "key": "F major",
+    "duration_sec": 389,
+    "instruments": [
+      "reverb piano",
+      "ambient textures",
+      "singing bowls",
+      "soft strings"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:17:13Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/4ab0bc_ethereal_ambient_97bpm.opus"
+  },
+  {
+    "id": "b2b157",
+    "file": "b2b157_ethereal_ambient_58bpm.opus",
+    "title": "Twilight Tide",
+    "mood": "ethereal_ambient",
+    "energy": 0.63,
+    "bpm": 58,
+    "key": "G major",
+    "duration_sec": 178,
+    "instruments": [
+      "reverb piano",
+      "soft strings",
+      "bowed vibraphone",
+      "ethereal vocals"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:18:29Z"
+  },
+  {
+    "id": "796d23",
+    "file": "796d23_dark_intense_125bpm.opus",
+    "title": "Fallen Eclipse",
+    "mood": "dark_intense",
+    "energy": 0.96,
+    "bpm": 125,
+    "key": "F minor",
+    "duration_sec": 151,
+    "instruments": [
+      "distorted cello",
+      "deep brass",
+      "dark choir",
+      "heavy strings",
+      "tubular bells"
+    ],
+    "type": "medium_track",
+    "generated_at": "2026-04-11T05:19:23Z"
+  },
+  {
+    "id": "311f86",
+    "file": "311f86_heroic_128bpm.opus",
+    "title": "Steel Conquest",
+    "mood": "heroic",
+    "energy": 0.83,
+    "bpm": 128,
+    "key": "C minor",
+    "duration_sec": 417,
+    "instruments": [
+      "snare drum",
+      "trumpets",
+      "war drums",
+      "soaring strings",
+      "orchestral percussion",
+      "trombones"
+    ],
+    "type": "long_epic",
+    "generated_at": "2026-04-11T05:21:22Z"
+  },
+  {
+    "id": "723f5a",
+    "file": "723f5a_heroic_125bpm.opus",
+    "title": "Blazing Triumph",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 125,
+    "key": "E minor",
+    "duration_sec": 49,
+    "instruments": [
+      "snare drum",
+      "cymbals",
+      "timpani",
+      "epic choir",
+      "orchestral percussion",
+      "brass ensemble",
+      "trombones"
+    ],
+    "type": "short_interlude",
+    "generated_at": "2026-04-11T05:22:11Z"
   }
 ]
