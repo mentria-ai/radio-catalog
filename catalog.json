@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "id": "84eb7e",
+    "file": "84eb7e_heroic_117bpm.opus",
+    "title": "Crimson Glory",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 117,
+    "key": "E minor",
+    "duration_sec": 482,
+    "instruments": [
+      "trumpets",
+      "snare drum",
+      "cellos",
+      "epic choir",
+      "string ostinatos",
+      "cymbals"
+    ],
+    "type": "long_epic",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T08:50:46Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/84eb7e_heroic_117bpm.opus"
+  },
+  {
+    "id": "ab48a7",
+    "file": "ab48a7_ethereal_ambient_75bpm.opus",
+    "title": "Misty Tide",
+    "mood": "ethereal_ambient",
+    "energy": 0.7,
+    "bpm": 75,
+    "key": "D minor",
+    "duration_sec": 385,
+    "instruments": [
+      "wind chimes",
+      "ethereal vocals",
+      "shimmer delay guitar",
+      "singing bowls"
+    ],
+    "type": "long_epic",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T08:54:10Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/ab48a7_ethereal_ambient_75bpm.opus"
+  },
+  {
+    "id": "321696",
+    "file": "321696_ethereal_ambient_120bpm.opus",
+    "title": "Glacial Echo",
+    "mood": "ethereal_ambient",
+    "energy": 1.0,
+    "bpm": 120,
+    "key": "C major",
+    "duration_sec": 134,
+    "instruments": [
+      "bowed vibraphone",
+      "ethereal vocals",
+      "ambient textures",
+      "singing bowls"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T08:56:02Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/321696_ethereal_ambient_120bpm.opus"
+  },
+  {
+    "id": "f969ec",
+    "file": "f969ec_heroic_134bpm.opus",
+    "title": "Golden Anthem",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 134,
+    "key": "C minor",
+    "duration_sec": 410,
+    "instruments": [
+      "taiko drums",
+      "trumpets",
+      "snare drum",
+      "pipe organ",
+      "string ostinatos"
+    ],
+    "type": "long_epic",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T08:59:37Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/f969ec_heroic_134bpm.opus"
+  },
+  {
+    "id": "ffe8e9",
+    "file": "ffe8e9_dark_intense_100bpm.opus",
+    "title": "Cursed Shadow",
+    "mood": "dark_intense",
+    "energy": 0.85,
+    "bpm": 100,
+    "key": "C minor",
+    "duration_sec": 60,
+    "instruments": [
+      "taiko drums",
+      "timpani rolls",
+      "bass trombone",
+      "dissonant strings",
+      "string tremolo",
+      "dark choir",
+      "tubular bells"
+    ],
+    "type": "short_interlude",
+    "art": "dark_intense.jpg",
+    "generated_at": "2026-04-11T09:01:18Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/ffe8e9_dark_intense_100bpm.opus"
+  },
+  {
+    "id": "ddde64",
+    "file": "ddde64_ethereal_ambient_144bpm.opus",
+    "title": "Crystal Tide",
+    "mood": "ethereal_ambient",
+    "energy": 0.4,
+    "bpm": 144,
+    "key": "A minor",
+    "duration_sec": 238,
+    "instruments": [
+      "cello harmonics",
+      "glass harmonica",
+      "singing bowls",
+      "ethereal vocals"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T09:03:40Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/ddde64_ethereal_ambient_144bpm.opus"
+  },
+  {
+    "id": "4193e2",
+    "file": "4193e2_dark_intense_99bpm.opus",
+    "title": "Twisted Wrath",
+    "mood": "dark_intense",
+    "energy": 0.97,
+    "bpm": 99,
+    "key": "C minor",
+    "duration_sec": 178,
+    "instruments": [
+      "contrabassoon",
+      "string tremolo",
+      "anvil strikes",
+      "heavy cello ensemble",
+      "dissonant strings",
+      "deep brass section",
+      "taiko drums"
+    ],
+    "type": "medium_track",
+    "art": "dark_intense.jpg",
+    "generated_at": "2026-04-11T09:05:52Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/4193e2_dark_intense_99bpm.opus"
+  },
+  {
+    "id": "ca78c5",
+    "file": "ca78c5_emotional_sweeping_148bpm.opus",
+    "title": "Distant Promise",
+    "mood": "emotional_sweeping",
+    "energy": 0.36,
+    "bpm": 148,
+    "key": "C major",
+    "duration_sec": 39,
+    "instruments": [
+      "english horn",
+      "solo piano",
+      "french horn",
+      "cello solo"
+    ],
+    "type": "short_interlude",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T09:07:15Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/ca78c5_emotional_sweeping_148bpm.opus"
+  },
+  {
+    "id": "bd5788",
+    "file": "bd5788_ethereal_ambient_106bpm.opus",
+    "title": "Floating Nebula",
+    "mood": "ethereal_ambient",
+    "energy": 1.0,
+    "bpm": 106,
+    "key": "C major",
+    "duration_sec": 482,
+    "instruments": [
+      "soft strings",
+      "ambient textures",
+      "atmospheric drones"
+    ],
+    "type": "long_epic",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T09:11:55Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/bd5788_ethereal_ambient_106bpm.opus"
+  },
+  {
+    "id": "a2cc41",
+    "file": "a2cc41_heroic_131bpm.opus",
+    "title": "Mighty Triumph",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 131,
+    "key": "C minor",
+    "duration_sec": 234,
+    "instruments": [
+      "string ostinatos",
+      "soaring strings",
+      "cymbals",
+      "pipe organ",
+      "snare drum",
+      "trombones"
+    ],
+    "type": "medium_track",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T09:14:31Z",
+    "url": "https://mentria-ai.github.io/radio-catalog/tracks/a2cc41_heroic_131bpm.opus"
+  }
+]
