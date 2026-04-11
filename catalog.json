@@ -430,5 +430,216 @@
     "art": "dark_intense.jpg",
     "generated_at": "2026-04-11T07:36:55Z",
     "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-002/1a1874_dark_intense_110bpm.opus"
+  },
+  {
+    "id": "44fa3f",
+    "file": "44fa3f_ethereal_ambient_60bpm.opus",
+    "title": "Crystal Aurora",
+    "mood": "ethereal_ambient",
+    "energy": 0.61,
+    "bpm": 60,
+    "key": "G major",
+    "duration_sec": 38,
+    "instruments": [
+      "ethereal vocals",
+      "reverb piano",
+      "wind chimes"
+    ],
+    "type": "short_interlude",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:38:37Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/44fa3f_ethereal_ambient_60bpm.opus"
+  },
+  {
+    "id": "5149d6",
+    "file": "5149d6_ethereal_ambient_60bpm.opus",
+    "title": "Luminous Nebula",
+    "mood": "ethereal_ambient",
+    "energy": 0.67,
+    "bpm": 60,
+    "key": "C major",
+    "duration_sec": 227,
+    "instruments": [
+      "ambient textures",
+      "glass harmonica",
+      "soft strings"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:41:00Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/5149d6_ethereal_ambient_60bpm.opus"
+  },
+  {
+    "id": "c1908d",
+    "file": "c1908d_emotional_sweeping_91bpm.opus",
+    "title": "Gentle Elegy",
+    "mood": "emotional_sweeping",
+    "energy": 0.54,
+    "bpm": 91,
+    "key": "E flat major",
+    "duration_sec": 166,
+    "instruments": [
+      "harp",
+      "cello solo",
+      "clarinet",
+      "solo piano",
+      "string quartet"
+    ],
+    "type": "medium_track",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T07:43:06Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/c1908d_emotional_sweeping_91bpm.opus"
+  },
+  {
+    "id": "a325b4",
+    "file": "a325b4_dark_intense_115bpm.opus",
+    "title": "Broken Abyss",
+    "mood": "dark_intense",
+    "energy": 0.78,
+    "bpm": 115,
+    "key": "D minor",
+    "duration_sec": 146,
+    "instruments": [
+      "taiko drums",
+      "tubular bells",
+      "heavy cello ensemble",
+      "dissonant strings",
+      "string tremolo",
+      "low piano clusters",
+      "dark choir",
+      "deep brass section"
+    ],
+    "type": "medium_track",
+    "art": "dark_intense.jpg",
+    "generated_at": "2026-04-11T07:45:04Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/a325b4_dark_intense_115bpm.opus"
+  },
+  {
+    "id": "d4f6fc",
+    "file": "d4f6fc_ethereal_ambient_134bpm.opus",
+    "title": "Glacial Haze",
+    "mood": "ethereal_ambient",
+    "energy": 0.71,
+    "bpm": 134,
+    "key": "A minor",
+    "duration_sec": 47,
+    "instruments": [
+      "shimmer delay guitar",
+      "soft strings",
+      "wind chimes"
+    ],
+    "type": "short_interlude",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:46:35Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/d4f6fc_ethereal_ambient_134bpm.opus"
+  },
+  {
+    "id": "f717b2",
+    "file": "f717b2_ethereal_ambient_125bpm.opus",
+    "title": "Twilight Nebula",
+    "mood": "ethereal_ambient",
+    "energy": 1.0,
+    "bpm": 125,
+    "key": "E minor",
+    "duration_sec": 193,
+    "instruments": [
+      "atmospheric drones",
+      "ethereal vocals",
+      "reverb piano",
+      "glass harmonica",
+      "wind chimes",
+      "bowed vibraphone"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:48:41Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/f717b2_ethereal_ambient_125bpm.opus"
+  },
+  {
+    "id": "9fa4f9",
+    "file": "9fa4f9_ethereal_ambient_152bpm.opus",
+    "title": "Veiled Haze",
+    "mood": "ethereal_ambient",
+    "energy": 0.79,
+    "bpm": 152,
+    "key": "A minor",
+    "duration_sec": 120,
+    "instruments": [
+      "synthesizer pads",
+      "reverb piano",
+      "ethereal vocals",
+      "bowed vibraphone"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:50:31Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/9fa4f9_ethereal_ambient_152bpm.opus"
+  },
+  {
+    "id": "fa7717",
+    "file": "fa7717_ethereal_ambient_69bpm.opus",
+    "title": "Glacial Cosmos",
+    "mood": "ethereal_ambient",
+    "energy": 1.0,
+    "bpm": 69,
+    "key": "A minor",
+    "duration_sec": 176,
+    "instruments": [
+      "wind chimes",
+      "bowed vibraphone",
+      "singing bowls",
+      "shimmer delay guitar"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:52:33Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/fa7717_ethereal_ambient_69bpm.opus"
+  },
+  {
+    "id": "a677dc",
+    "file": "a677dc_heroic_71bpm.opus",
+    "title": "Rising Conquest",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 71,
+    "key": "E minor",
+    "duration_sec": 440,
+    "instruments": [
+      "pipe organ",
+      "soaring strings",
+      "trumpets",
+      "timpani",
+      "epic choir",
+      "brass ensemble",
+      "taiko drums"
+    ],
+    "type": "long_epic",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T07:56:19Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/a677dc_heroic_71bpm.opus"
+  },
+  {
+    "id": "3ff00c",
+    "file": "3ff00c_heroic_62bpm.opus",
+    "title": "Mighty Legacy",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 62,
+    "key": "E minor",
+    "duration_sec": 42,
+    "instruments": [
+      "snare drum",
+      "trumpets",
+      "trombones",
+      "timpani",
+      "cellos",
+      "epic choir",
+      "pipe organ",
+      "french horns"
+    ],
+    "type": "short_interlude",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T07:57:42Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-003/3ff00c_heroic_62bpm.opus"
   }
 ]
