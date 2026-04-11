@@ -1,1 +1,215 @@
-[]
+[
+  {
+    "id": "6d94cd",
+    "file": "6d94cd_heroic_148bpm.opus",
+    "title": "Blazing Valor",
+    "mood": "heroic",
+    "energy": 0.75,
+    "bpm": 148,
+    "key": "D major",
+    "duration_sec": 51,
+    "instruments": [
+      "cymbals",
+      "timpani",
+      "taiko drums",
+      "trombones",
+      "brass ensemble",
+      "snare drum"
+    ],
+    "type": "short_interlude",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T06:53:55Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/6d94cd_heroic_148bpm.opus"
+  },
+  {
+    "id": "746f3e",
+    "file": "746f3e_heroic_156bpm.opus",
+    "title": "Steel Legacy",
+    "mood": "heroic",
+    "energy": 0.84,
+    "bpm": 156,
+    "key": "D minor",
+    "duration_sec": 162,
+    "instruments": [
+      "cymbals",
+      "french horns",
+      "brass ensemble",
+      "orchestral percussion",
+      "timpani",
+      "taiko drums"
+    ],
+    "type": "medium_track",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T06:55:57Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/746f3e_heroic_156bpm.opus"
+  },
+  {
+    "id": "f0b4de",
+    "file": "f0b4de_ethereal_ambient_148bpm.opus",
+    "title": "Misty Drift",
+    "mood": "ethereal_ambient",
+    "energy": 0.66,
+    "bpm": 148,
+    "key": "G major",
+    "duration_sec": 205,
+    "instruments": [
+      "wind chimes",
+      "soft strings",
+      "shimmer delay guitar"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T06:58:22Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/f0b4de_ethereal_ambient_148bpm.opus"
+  },
+  {
+    "id": "19cae8",
+    "file": "19cae8_emotional_sweeping_152bpm.opus",
+    "title": "Endless Longing",
+    "mood": "emotional_sweeping",
+    "energy": 0.61,
+    "bpm": 152,
+    "key": "F major",
+    "duration_sec": 56,
+    "instruments": [
+      "string quartet",
+      "violin solo",
+      "cello solo",
+      "harp",
+      "oboe",
+      "gentle choir"
+    ],
+    "type": "short_interlude",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T06:59:55Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/19cae8_emotional_sweeping_152bpm.opus"
+  },
+  {
+    "id": "eeb4fc",
+    "file": "eeb4fc_emotional_sweeping_125bpm.opus",
+    "title": "Fleeting Journey",
+    "mood": "emotional_sweeping",
+    "energy": 1.0,
+    "bpm": 125,
+    "key": "G major",
+    "duration_sec": 459,
+    "instruments": [
+      "french horn",
+      "gentle choir",
+      "solo piano",
+      "full orchestra strings",
+      "flute"
+    ],
+    "type": "long_epic",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T07:03:47Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/eeb4fc_emotional_sweeping_125bpm.opus"
+  },
+  {
+    "id": "f44e30",
+    "file": "f44e30_heroic_65bpm.opus",
+    "title": "Blazing Crusade",
+    "mood": "heroic",
+    "energy": 0.99,
+    "bpm": 65,
+    "key": "B flat major",
+    "duration_sec": 32,
+    "instruments": [
+      "timpani",
+      "brass ensemble",
+      "pipe organ",
+      "snare drum",
+      "cymbals",
+      "french horns"
+    ],
+    "type": "short_interlude",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T07:05:16Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/f44e30_heroic_65bpm.opus"
+  },
+  {
+    "id": "74d6c5",
+    "file": "74d6c5_adventure_115bpm.opus",
+    "title": "Wild Expedition",
+    "mood": "adventure",
+    "energy": 1.0,
+    "bpm": 115,
+    "key": "A major",
+    "duration_sec": 180,
+    "instruments": [
+      "trumpets",
+      "orchestral strings",
+      "lively strings",
+      "bodhran drum",
+      "fiddle",
+      "french horns",
+      "piccolo"
+    ],
+    "type": "medium_track",
+    "art": "adventure.jpg",
+    "generated_at": "2026-04-11T07:07:27Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/74d6c5_adventure_115bpm.opus"
+  },
+  {
+    "id": "808376",
+    "file": "808376_emotional_sweeping_69bpm.opus",
+    "title": "Tender Reverie",
+    "mood": "emotional_sweeping",
+    "energy": 0.59,
+    "bpm": 69,
+    "key": "E flat major",
+    "duration_sec": 209,
+    "instruments": [
+      "string quartet",
+      "oboe",
+      "harp",
+      "full orchestra strings"
+    ],
+    "type": "medium_track",
+    "art": "emotional_sweeping.jpg",
+    "generated_at": "2026-04-11T07:11:20Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/808376_emotional_sweeping_69bpm.opus"
+  },
+  {
+    "id": "14586b",
+    "file": "14586b_heroic_72bpm.opus",
+    "title": "Burning Fortress",
+    "mood": "heroic",
+    "energy": 1.0,
+    "bpm": 72,
+    "key": "G minor",
+    "duration_sec": 53,
+    "instruments": [
+      "cymbals",
+      "timpani",
+      "snare drum",
+      "trumpets",
+      "soaring strings"
+    ],
+    "type": "short_interlude",
+    "art": "heroic.jpg",
+    "generated_at": "2026-04-11T07:12:58Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/14586b_heroic_72bpm.opus"
+  },
+  {
+    "id": "b7688e",
+    "file": "b7688e_ethereal_ambient_125bpm.opus",
+    "title": "Twilight Drift",
+    "mood": "ethereal_ambient",
+    "energy": 0.69,
+    "bpm": 125,
+    "key": "F major",
+    "duration_sec": 167,
+    "instruments": [
+      "atmospheric drones",
+      "shimmer delay guitar",
+      "ambient textures",
+      "cello harmonics",
+      "bowed vibraphone"
+    ],
+    "type": "medium_track",
+    "art": "ethereal_ambient.jpg",
+    "generated_at": "2026-04-11T07:15:06Z",
+    "url": "https://github.com/mentria-ai/radio-catalog/releases/download/batch-001/b7688e_ethereal_ambient_125bpm.opus"
+  }
+]
